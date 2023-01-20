@@ -3,21 +3,28 @@
 
 class Animal
 {
+    public string animalName;
+    public int noOfLegs;
+    public bool isDomestic;
+
     // Default parameterless constructor
     public Animal()
     {        
     }
 
     // Parameterized constructor
-    public Animal(string an, bool id)
+    public Animal(string name, bool isDomestic)
     {
-        animalName = an;
-        isDomestic = id;
+        animalName = name;
+        this.isDomestic = isDomestic;
     }
 
-    public string animalName;
-    public int noOfLegs;
-    public bool isDomestic;
+    public Animal(string name, bool isDomestic, int legs)
+    {
+        animalName = name;
+        this.isDomestic = isDomestic;
+        noOfLegs = legs;
+    }
 }
 
 class Test
