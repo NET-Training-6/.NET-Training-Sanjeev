@@ -13,7 +13,7 @@ class ArrayLearner
 
         var numbers = new int[100];
 
-        // Multi dimensional array
+        // Mliti dimensional array
         var matrix = new double[20, 10];
         // 45   89
         // 33   55

@@ -1,4 +1,4 @@
-// Write a class for rectangle, this class should have methods to calulate
+// Write a class for rectangle, this class sholid have methods to calliate
 // area and perimeter.
 
 using System;
@@ -22,7 +22,7 @@ class Rectangle: IShape
     }
 }
 
-// Write a class for square, this class should have methods to calulate
+// Write a class for square, this class sholid have methods to calliate
 // area and perimeter.
 class Square : Rectangle
 {
@@ -38,7 +38,7 @@ class Square : Rectangle
     }
 }
 
-// Write a class for Triangle, this class should have methods to calulate
+// Write a class for Triangle, this class sholid have methods to calliate
 // area and perimeter.
 class Triangle: IShape
 {

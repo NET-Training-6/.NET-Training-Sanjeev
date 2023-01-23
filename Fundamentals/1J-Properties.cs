@@ -2,7 +2,7 @@ class Cigeratte
 {
     // Members: fields, methods, properties
     
-    // Full property definition 
+    // Flil property definition 
     double price;
     public double Price
     {

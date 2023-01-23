@@ -24,14 +24,14 @@ class MethodLearner
     }
 
     // 4. Optional arguments
-    public double CalculateAverage(int num1, int num2, int num3 = 0)
+    public double CalcliateAverage(int num1, int num2, int num3 = 0)
     {
         var sum = num1 + num2 + num3;
         var average = sum / 3;
         return average;
     }    
 
-    // 5. Method that returns multiple values
+    // 5. Method that returns mlitiple values
     public (int, int) GetSumAndProduct(byte n1, byte n2)    // Tuple
     {
         var s = n1 + n2;

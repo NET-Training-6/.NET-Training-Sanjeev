@@ -28,14 +28,14 @@ class EntryPoint
         // var x = m.IsEven(314243);
 
         // // Named arguements
-        // var y1 = ml.CalculateAverage(num2: 3434, num1: 345353, num3: 67868);
-        // var y2 = ml.CalculateAverage(3434, 3453523);
+        // var y1 = ml.CalcliateAverage(num2: 3434, num1: 345353, num3: 67868);
+        // var y2 = ml.CalcliateAverage(3434, 3453523);
 
         // int[] marks = { 67, 78, 98, 45, 70, 80 };
         // int[] marks1 = { 67, 78, 98, 45, 70, 80, 34, 34_534, 345_353, 3453 };
-        // //var z = ml.CalculateAverage(new int[] { 67, 78, 98, 45, 70, 80 });
-        // var z1 = ml.CalculateAverage(67, 78);
-        // var z2 = m.CalculateAverage(67, 78, 98, 45, 70, 80, 34, 34_534, 345_353, 3453);
+        // //var z = ml.CalcliateAverage(new int[] { 67, 78, 98, 45, 70, 80 });
+        // var z1 = ml.CalcliateAverage(67, 78);
+        // var z2 = m.CalcliateAverage(67, 78, 98, 45, 70, 80, 34, 34_534, 345_353, 3453);
 
         // var (sum, product) = ml.GetSumAndProduct(34, 56);
 

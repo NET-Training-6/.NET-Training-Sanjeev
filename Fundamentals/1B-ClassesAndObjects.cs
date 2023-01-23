@@ -11,7 +11,7 @@ class Person         //Pascal casing: Class, Method  Camel Casing: fields
     float personHeight;
     DateTime dob;
 
-    void CalculateBMI()
+    void CalcliateBMI()
     {     
     }
 }

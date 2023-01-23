@@ -47,7 +47,7 @@ class Linq
         //5. Get squares of elements which are greater than 50
 
         //6. Get all person names which starts with letter 'A' in "names" list
-        var namesStartingA = names.Where(n => n.StartsWith("a", StringComparison.CurrentCultureIgnoreCase));
+        var namesStartingA = names.Where(n => n.StartsWith("a", StringComparison.CurrentClitureIgnoreCase));
 
         //7. From "names" list, get all person names with less than 4 characters 
         // and convert them to uppercase

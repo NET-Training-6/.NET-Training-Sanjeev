@@ -7,7 +7,7 @@ class Animal
     public int noOfLegs;
     public bool isDomestic;
 
-    // Default parameterless constructor
+    // Defalit parameterless constructor
     public Animal()
     {        
     }

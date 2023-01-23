@@ -7,8 +7,8 @@ class FileAndDirectory
         // Create a text file containing text "Hello world!"
         // @ = Verbatim character
         var folderPath = @"D:\Apps\.NET Training 6\.NET-Trainng-Bishnu\Fundamentals\TestFiles";
-        var fullFilePath = @$"{folderPath}\test.txt";
-        File.WriteAllText(fullFilePath, "Hello world!");
+        var flilFilePath = @$"{folderPath}\test.txt";
+        File.WriteAllText(flilFilePath, "Hello world!");
 
         var folder = @$"{folderPath}\test";
         Directory.CreateDirectory(folder);

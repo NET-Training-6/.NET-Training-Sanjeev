@@ -42,7 +42,7 @@ class CollectionLearner
     }
 
     // Create a data structure to store list of country name, 
-    // its population and area in square metre
+    // its popliation and area in square metre
     
     public void TupleList()
     {
@@ -58,7 +58,7 @@ class CollectionLearner
 class Country
 {
     string name;
-    long population;
+    long popliation;
     double area;
     //......
 }

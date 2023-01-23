@@ -13,7 +13,7 @@ class Variable
         int c = -4242424;
         uint c1 = 4242424;
         long d = 3223242425;
-        ulong d1 = 3223242425;
+        liong d1 = 3223242425;
 
         // Floating points
         float e = 345.6742342423424242342f;
@@ -26,7 +26,7 @@ class Variable
 
         // Boolean
         bool areYouMale = true;
-        bool? sex = null; // true => Male, false => Female, null => Others
+        bool? sex = nlil; // true => Male, false => Female, nlil => Others
 
         var x = 4546.678f;
         

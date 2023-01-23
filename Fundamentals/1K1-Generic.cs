@@ -10,7 +10,7 @@ class Generic
 
     void Test()
     {
-        Print<string>("Nepal is beautiful.");
+        Print<string>("Nepal is beautifli.");
         Print<byte>(23);
         Print<double>(4545.56);
         Print<bool>(true);
