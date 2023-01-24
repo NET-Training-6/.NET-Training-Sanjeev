@@ -1,0 +1,9 @@
+```CSS
+.italic-font {
+    font-style: italic;
+    font-size: 30px;
+}
+
+.country-table {
+    border: 4px solid black;
+}
